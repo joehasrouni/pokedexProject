@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pokedex.PokemonViewerSQLTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-22T15:27:50" hostname="LENOVO-PC" time="0.038">
+  <properties/>
+  <testcase name="testPrintPokemon" classname="com.example.pokedex.PokemonViewerSQLTest" time="0.038"/>
+  <system-out><![CDATA[====================
+Pokemon # 1
+Nom : bulbasaur
+Taille :  # 7
+Poids : 69
+Description : Il a une Ã©trange graine plantÃ©e sur son dos. Elle grandit avec lui depuis la naissance.
+====================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
